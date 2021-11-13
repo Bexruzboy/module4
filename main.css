@@ -1,0 +1,27 @@
+* {
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 1024px;
+}
+header {
+    height: 150px;
+    background-color: blue;
+}
+nav {
+    height: 20px;
+    background-color: red;
+}
+main {
+    height: 150px;
+    background-color:whitesmoke ;
+}
+footer {
+    height: 20px;
+    background-color: red;
+}
+section {
+    height: 150px;
+    background-color: green;
+}
